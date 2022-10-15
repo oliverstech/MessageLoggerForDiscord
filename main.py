@@ -1,5 +1,4 @@
 # requires discord.py-self
-from dis import disco
 from operator import truediv
 import discord
 import sys

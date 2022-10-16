@@ -7,18 +7,6 @@ A guide to Discord Message Logger by Oliver's Tech Corner!
 
 This bot needs your token to run. But being open source, it's not going to steal your token! You can read the code yourself if you don't trust me!
 
-Library required: discord.py-self
-
-Installation of library
----------------------------
-1. Open up a command prompt window. Copy paste the following commands. 
-pip uninstall discord.py
-pip uninstall discord
-pip install discord.py-self
-
-**Why does it get rid of the standard discord.py package, you may be asking?**
-
-This is because discord.py-self does everything discord.py does, but with support for selfbots too. So, you're not uninstalling discord.py at all. Your scripts will all still work fine!
 
 Getting your token
 -----------------------
@@ -30,30 +18,12 @@ Getting your token
 
 Congrats! You've just copied your discord auth token. 
 
-**DO NOT SEND IT TO ANYONE! ONLY USE IT WHERE IT CAN BE TRUSTED. EG OPEN SOURCE SCRIPTS WHERE YOU CAN VIEW THE CODE; NOT JUST A RANDOM EXE YOU FOUND!!!**
+**Be careful with this: sharing this token can give attackers access to your Discord account...**
 
 Usage
 ---------------
-1. run the script with "py <path-to-script>" or double click it
-2. paste token --or-- make a file called token.txt in the same directory with your token within it
-3. Choose which version of logging you'd like to set
-4. Logger is configured!
+Simply run the EXE, choose your mode, paste your token and hit begin!
 
-Configuring on startup
-----------------------------
-1. Make a shortcut and type:
-
-`py "<path-to-script>" "noprompt" "<option>"`
-
-`<path-to-script>` - The path to the python script
-
-`<option>` - an option out of all/dm (all=log all messages / dm=log all DMs)
-
-2. Press WindowsKey+R and type "shell:startup"
-3. Drag the shortcut into the folder
-Script will now run on boot
-
-[requires token.txt with token in it]
 
 Using channel ID mode (not on startup)
 -----------------------------------------------

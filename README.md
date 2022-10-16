@@ -25,7 +25,7 @@ Usage
 Simply run the EXE, choose your mode, paste your token and hit begin!
 
 
-Using channel ID mode (not on startup)
+Using channel ID mode
 -----------------------------------------------
 When you choose to use channel ID mode, you'll be asked to paste a channel ID (makes sense). This is the end of the URL on the web-based version of Discord.
 

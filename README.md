@@ -40,3 +40,10 @@ In the case of the second URL, you would only copy the second number and not the
 
 ![image](https://user-images.githubusercontent.com/89639839/196053403-82cd87a1-ae17-4516-b6a5-5514ca428882.png)
 
+To-Do
+----------
+- [x] Basic script functionality
+- [x] Attachment Support
+- [x] GUI frontend
+- [ ] Emoji support
+- [ ] Resize support

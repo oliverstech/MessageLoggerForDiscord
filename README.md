@@ -36,3 +36,7 @@ https://discord.com/channels/1234567890/0987654321
 The first URL channel ID would be '1234567890'.
 
 In the case of the second URL, you would only copy the second number and not the first one, since the first one is the Guild ID (server ID), not the channel. So, in this case, the ID would be '0987654321'.
+![image](https://user-images.githubusercontent.com/89639839/196053407-716bb34d-ba45-4be0-b984-1c23cfbfb667.png)
+
+![image](https://user-images.githubusercontent.com/89639839/196053403-82cd87a1-ae17-4516-b6a5-5514ca428882.png)
+

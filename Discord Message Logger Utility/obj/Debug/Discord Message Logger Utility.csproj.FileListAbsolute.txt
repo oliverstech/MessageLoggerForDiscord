@@ -1,0 +1,11 @@
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\bin\Debug\Discord Message Logger Utility.exe.config
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\bin\Debug\Discord Message Logger Utility.exe
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\bin\Debug\Discord Message Logger Utility.pdb
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.csproj.AssemblyReference.cache
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord_Message_Logger_Utility.Form1.resources
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord_Message_Logger_Utility.Properties.Resources.resources
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.exe
+C:\Users\Oliver\source\repos\Discord Message Logger Utility\Discord Message Logger Utility\obj\Debug\Discord Message Logger Utility.pdb
